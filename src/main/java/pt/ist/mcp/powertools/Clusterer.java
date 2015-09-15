@@ -26,7 +26,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @author Gabriel
+ * @author Gabriel Barata
  */
 public class Clusterer {
 
